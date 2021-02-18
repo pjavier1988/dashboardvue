@@ -1,3 +1,4 @@
+name: prueba
 on:
   push:
     branches:
